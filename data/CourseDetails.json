@@ -46,36 +46,36 @@
     },
     {
         "id": "6",
-        "title": "Basic Firebase learning",
-        "details": "Firebase evolved from Envolve, a prior startup founded by James Tamplin and Andrew Lee in 2011. Envolve provided developers an API that enables the integration of online chat functionality into their websites. After releasing the chat service, Tamplin and Lee found that it was being used to pass application data that were not chat messages. Developers were using Envolve to sync application data such as game state in real time across their users. Tamplin and Lee decided to separate the chat system and the real-time architecture that powered it.[1] They founded Firebase as a separate company in 2011 and it launched to the public in April 2012.",
-        "price" : "2000",
-        "Duration" : "12",
+        "title": "Intermediate Firebase",
+        "details": "Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world.Firebase supports an ML kit that uses ready-to-use APIs for several mobile functionalities such as barcode scanning, identifying the text, detecting the face, labelling images, etc. In addition, it gives you the freedom to choose between Cloud APIs and on-device APIs for easy working of your application.",
+        "price" : "2500",
+        "Duration" : "16",
         "ratings" : "4.5",
         "instructor": "Jhankar Mahbub"
     },
     {
         "id": "7",
-        "title": "Basic Firebase learning",
-        "details": "Firebase evolved from Envolve, a prior startup founded by James Tamplin and Andrew Lee in 2011. Envolve provided developers an API that enables the integration of online chat functionality into their websites. After releasing the chat service, Tamplin and Lee found that it was being used to pass application data that were not chat messages. Developers were using Envolve to sync application data such as game state in real time across their users. Tamplin and Lee decided to separate the chat system and the real-time architecture that powered it.[1] They founded Firebase as a separate company in 2011 and it launched to the public in April 2012.",
-        "price" : "2000",
-        "Duration" : "12",
+        "title": "Beginner C++",
+        "details": "C++ is one of the most widely-used programming languages in game development. It has been used to create: games, such as World of Warcraft, Counter-Strike, and StarCraft, game engines like Unreal Engine, and gaming consoles, including Xbox, PlayStation, and Nintendo Switch.",
+        "price" : "4000",
+        "Duration" : "32",
         "ratings" : "4.5",
         "instructor": "Jhankar Mahbub"
     },
     {
         "id": "8",
-        "title": "Basic Firebase learning",
-        "details": "Firebase evolved from Envolve, a prior startup founded by James Tamplin and Andrew Lee in 2011. Envolve provided developers an API that enables the integration of online chat functionality into their websites. After releasing the chat service, Tamplin and Lee found that it was being used to pass application data that were not chat messages. Developers were using Envolve to sync application data such as game state in real time across their users. Tamplin and Lee decided to separate the chat system and the real-time architecture that powered it.[1] They founded Firebase as a separate company in 2011 and it launched to the public in April 2012.",
-        "price" : "2000",
-        "Duration" : "12",
+        "title": "Beginner JAVA",
+        "details": "Java is a well-known server-side programming language that is often used for constructing web applications. Spring, Struts, Hibernate, Apache Hadoop, and JSF are among of the most popular Java frameworks for constructing Web applications.",
+        "price" : "4000",
+        "Duration" : "28",
         "ratings" : "4.5",
         "instructor": "Jhankar Mahbub"
     },
     {
-        "title": "Basic Firebase learning",
-        "details": "Firebase evolved from Envolve, a prior startup founded by James Tamplin and Andrew Lee in 2011. Envolve provided developers an API that enables the integration of online chat functionality into their websites. After releasing the chat service, Tamplin and Lee found that it was being used to pass application data that were not chat messages. Developers were using Envolve to sync application data such as game state in real time across their users. Tamplin and Lee decided to separate the chat system and the real-time architecture that powered it.[1] They founded Firebase as a separate company in 2011 and it launched to the public in April 2012.",
-        "price" : "2000",
-        "Duration" : "12",
+        "title": "Intermediate PYTHON",
+        "details": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
+        "price" : "4000",
+        "Duration" : "48",
         "ratings" : "4.5",
         "instructor": "Jhankar Mahbub"
     }

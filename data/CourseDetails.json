@@ -2,6 +2,7 @@
     {
         "id": "1",
         "title": "Intermediate HTML5",
+        "image": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2018/11/what-is-html-3.jpg",
         "details": "HTML is the universal markup language for the Web. HTML lets you format text, add graphics, create links, input forms, frames and tables, etc., and save it all in a text file that any browser can read and display. For more information on HTML, please take a look at our HTML examples and our HTML reference.",
         "price" : "2000",
         "Duration" : "12",
@@ -11,6 +12,7 @@
     {
         "id": "2",
         "title": "Intermediate CSS",
+        "image": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png",
         "details": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.",
         "price" : "1000",
         "Duration" : "8",
@@ -20,6 +22,7 @@
     {
         "id": "3",
         "title": "Beginner Bootstrap",
+        "image": "https://avatars.githubusercontent.com/u/2918581?s=280&v=4",
         "details": "Bootstrap is a free front-end framework for faster and easier web development. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins.",
         "price" : "500",
         "Duration" : "6",
@@ -29,6 +32,7 @@
     {
         "id": "4",
         "title": "Beginner JavaScript",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfEMnMfriAVXO-L9_ZIU-4UAMNybVu5_XLfDQjZHkYOzURcrml7OXJZyn2LS1mgRrLqcU&usqp=CAU",
         "details": "Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers. JavaScript is so popular that it's the most used programming language in the world, used as a client-side programming language by 97.0% of all websites.",
         "price" : "4000",
         "Duration" : "48",
@@ -38,6 +42,7 @@
     {
         "id": "5",
         "title": "Beginner React",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
         "details": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.",
         "price" : "3000",
         "Duration" : "24",
@@ -47,6 +52,7 @@
     {
         "id": "6",
         "title": "Intermediate Firebase",
+        "image": "https://w7.pngwing.com/pngs/359/1024/png-transparent-firebase-cloud-messaging-computer-icons-google-cloud-messaging-android-angle-triangle-computer-programming.png",
         "details": "Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world.Firebase supports an ML kit that uses ready-to-use APIs for several mobile functionalities such as barcode scanning, identifying the text, detecting the face, labelling images, etc. In addition, it gives you the freedom to choose between Cloud APIs and on-device APIs for easy working of your application.",
         "price" : "2500",
         "Duration" : "16",
@@ -56,6 +62,7 @@
     {
         "id": "7",
         "title": "Beginner C++",
+        "image": "https://img.favpng.com/6/9/18/lenguaje-c-computer-programming-clip-art-png-favpng-G8uGSuVXMYrdZSECtqxNMy5cs.jpg",
         "details": "C++ is one of the most widely-used programming languages in game development. It has been used to create: games, such as World of Warcraft, Counter-Strike, and StarCraft, game engines like Unreal Engine, and gaming consoles, including Xbox, PlayStation, and Nintendo Switch.",
         "price" : "4000",
         "Duration" : "32",
@@ -65,6 +72,7 @@
     {
         "id": "8",
         "title": "Beginner JAVA",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWoPddDR1jwLgdTOw9fYCNjQXjGOsqyMtBSMTLgSfwgg&s",
         "details": "Java is a well-known server-side programming language that is often used for constructing web applications. Spring, Struts, Hibernate, Apache Hadoop, and JSF are among of the most popular Java frameworks for constructing Web applications.",
         "price" : "4000",
         "Duration" : "28",
@@ -72,7 +80,9 @@
         "instructor": "Jhankar Mahbub"
     },
     {
+        "id" : "9",
         "title": "Intermediate PYTHON",
+        "image": "https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png",
         "details": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
         "price" : "4000",
         "Duration" : "48",
